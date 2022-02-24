@@ -1,0 +1,45 @@
+body {
+  background-color: #000;  
+}
+
+body header {
+  margin-left: .5rem; 
+  font-size: 5rem; 
+  color: #53710F  
+}
+
+img {
+ width: 100%;   
+}
+
+.divHulk {
+  height: 35rem; 
+  overflow: hidden 
+}
+
+h1 {
+  font-size: 3rem; 
+  font-weight: 500; 
+  color: #53710F 
+}
+
+p {
+  letter-spacing: .2rem; 
+  font-size: .8rem; 
+  color: #53710F 
+}
+
+.textCharacter {
+  padding: 0 2rem; 
+  margin-bottom: 3rem;
+}
+
+span {
+  color: #53710F ;
+  padding: 0 2rem  
+}
+
+a {
+  font-size: 1rem; 
+  text-decoration: none; 
+}
